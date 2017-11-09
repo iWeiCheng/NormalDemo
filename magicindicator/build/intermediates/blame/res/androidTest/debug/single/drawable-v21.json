@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "F:\\companyCode\\xingxiaobao2\\magicindicator\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\d6cd290c4d58b1d02e936c66fa5402cd\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "F:\\companyCode\\xingxiaobao2\\magicindicator\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.2.aar\\2afae6e63f417095b617accad027fe35\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "F:\\companyCode\\xingxiaobao2\\magicindicator\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\d6cd290c4d58b1d02e936c66fa5402cd\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "F:\\companyCode\\xingxiaobao2\\magicindicator\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.2.aar\\d6cd290c4d58b1d02e936c66fa5402cd\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    }
+]
